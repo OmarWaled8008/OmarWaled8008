@@ -26,7 +26,6 @@
 - 👨‍💻 As an Information Systems student, I'm passionate about both frontend and backend development.  
 - 💬 Ask me about JavaScript, React.js, Node.js, MongoDB, Angular, Vue.js, NestJS, SQL, and REST APIs.  
 - ☕ Fun Fact: I'm a coffee lover who believes every bug fix deserves a fresh brew.  
-- 🌐 Explore my portfolio: [https://Omar-Waled.netlify.app/](https://Omar-Waled.netlify.app/)
 
 <!-- -------------------------------------------- -->
 
