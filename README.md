@@ -4,21 +4,13 @@
 
 <!-- -------------------------------------------- -->
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<!-- -------------------------------------------- -->
-
-<h3 align="center">
-  Welcome to Omar Waled's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- -------------------------------------------- -->
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;MERN%20Stack%20Specialist;Always%20building%20and%20learning!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Good%20at%20MERN%20%7C%20MEAN%20Stack;Crafting%20Modern%20Web%20Apps;Passionate%20about%20Learning%20and%20Building!&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p>
+
 
 <!-- -------------------------------------------- -->
 
