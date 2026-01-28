@@ -57,13 +57,6 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-
-<!-- -------------------------------------------- -->
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-</p>
-
 <!-- -------------------------------------------- -->
 
 <h1 align='center'>⚡️<i>Stay awesome and keep building!</i>⚡️</h1>
