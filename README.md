@@ -1,3 +1,9 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+
+
+
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif">
 </p>
