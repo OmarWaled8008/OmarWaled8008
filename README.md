@@ -63,8 +63,8 @@
 
 <!-- -------------------------------------------- -->
 
-<h1 align='center'>⚡️<i>Stay awesome and keep building!</i>⚡️</h1>
+<!-- <h1 align='center'>⚡️<i>Stay awesome and keep building!</i>⚡️</h1> -->
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000&text=⚡️Stay%20awesome%20and%20keep%20building!⚡️&section=footer&reversal=true&textBg=false&fontSize=30&fontColor=fff" alt="Footer" />
 </p>
