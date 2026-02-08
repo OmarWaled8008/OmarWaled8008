@@ -80,6 +80,10 @@
 </div>
 <!-- -------------------------------------------- -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarwaled8008&theme=holi-theme&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
+
+<!-- -------------------------------------------- -->
+
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 <img src="https://raw.githubusercontent.com/omarwaled8008/omarwaled8008/output/snake.svg" alt="Snake animation" />
