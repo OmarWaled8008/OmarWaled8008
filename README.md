@@ -9,11 +9,7 @@
   </div>
 
   <!-- Typing Animation -->
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;MERN%20%7C%20MEAN%20Stack%20Enthusiast;Building%20Modern%20Web%20Apps;Passionate%20about%20Learning%20%26%20Coding!&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
-    </a>
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=7024F7&width=435&lines=Hi+there%2C+I%E2%80%99m+Omar;Frontend+precision%2C+backend+power;Fueled+by+coffee+and+clean+code;Shipping+solutions+one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 <!-- -------------------------------------------- -->
