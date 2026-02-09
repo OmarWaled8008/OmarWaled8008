@@ -3,6 +3,9 @@
   <!-- Centered GIF / Image -->
   <div align="center">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" alt="Coding GIF">
+          <img src="https://raw.githubusercontent.com/OmarWaled8008/OmarWaled8008/refs/heads/main/octocat-1769596202465.png" width="500" alt="Coding GIF">
+          
+
   </div>
 
   <!-- Typing Animation -->
