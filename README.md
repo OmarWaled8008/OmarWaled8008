@@ -29,14 +29,9 @@
 
 ---
 
-
-
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="./trophies.svg" alt="GitHub Trophies"/>
-</div>
-
+![GitHub Trophies](./trophies.svg)
 
 ---
 
