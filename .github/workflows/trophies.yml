@@ -1,0 +1,25 @@
+
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophies
+        uses: soulteary/profile-trophy-action@v1
+        with:
+          username: omarwaled8008
+          theme: darkhub
+          output: trophies.svg
