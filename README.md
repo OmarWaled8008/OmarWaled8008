@@ -23,9 +23,11 @@
 - 💬 Ask me about **JS, React, Angular, Vue, Node, NestJS, MongoDB, SQL, REST APIs**  
 - ☕ Fun fact: Every serious bug fix starts with coffee  
 
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/OmarWaled8008/OmarWaled8008/refs/heads/main/octocat-1769596202465.png"
        width="420" alt="Octocat"/>
-       
+    </div>   
 
 ---
 
