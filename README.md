@@ -105,11 +105,11 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarwaled8008&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarwaled8008&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
