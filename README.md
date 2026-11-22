@@ -34,11 +34,8 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-  <img src="https://trophy.benkou.dev/?username=omarwaled8008&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
+  <img src="./trophies.svg" alt="GitHub Trophies"/>
 </div>
-
 
 
 ---
